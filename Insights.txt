@@ -1,0 +1,33 @@
+the insights of the dashboard are:
+
+Total Teams-10
+Total Available Players-629
+Total selected players-237
+
+1. Team And Player Wise:
+Compare with Count and cost of player by team and type:
+Chennai Super Kings- 25 players And cost 87 Cr.
+Royal Challengers-22 Players and Cost 88 Cr.
+
+2. Team wise:
+Cost
+Top -Team by cost Mumbai Indians- 90 Cr.
+Bottom- Team by cost KKR -82 Cr.
+
+3. Player name wise:
+ Top player cost- KL Rahul - 17 Cr.(Wicket Keeper)
+Present In Lucknow SuperGiants
+ 
+Top 5 Players Cost:
+1. KL Rahul
+2. Ravindra Jadeja
+3. Rishabh Pant
+4. Rohit Sharma
+5. Ishan Kishan
+
+4. Player Type Wise:
+Top Total Player Type- All Rounder(242)
+Total Bottom  Player Type- Wicket(64)
+
+Top cost Type- All Rounder(317)
+Bottom cost Type- Wicket(137)
